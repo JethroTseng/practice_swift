@@ -8,5 +8,11 @@
 
 import Foundation
 
-println("Hello, World!")
+var TempMesg = "Welcome to new world"
+
+println("Words: \(TempMesg)")
+
+//println("Hello, World!")
+
+
 
